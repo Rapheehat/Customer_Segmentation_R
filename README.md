@@ -28,7 +28,7 @@ Make sure you have R and RStudio installed on your system. You can download R fr
     ```bash
     cd customer_segmentation-R
     ```
-3. Install the required packages by running:
+3. Install the required packages by running
  
 ### Usage
 
